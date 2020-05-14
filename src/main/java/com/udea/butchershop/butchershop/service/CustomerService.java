@@ -5,7 +5,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
 
-import com.udea.butchershop.butchershop.dto.Customer;
+import com.udea.butchershop.butchershop.dto.CustomerDto;
 import com.udea.butchershop.butchershop.entity.Customer;
 import com.udea.butchershop.butchershop.repository.CustomerRepository;
 
